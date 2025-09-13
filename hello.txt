@@ -1,1 +1,2 @@
 Hello Git from Linux EC2
+new line
